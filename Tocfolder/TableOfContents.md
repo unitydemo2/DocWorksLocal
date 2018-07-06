@@ -2,10 +2,10 @@ Unity Manual TOC
 ================
 
  - [UnityManual]()
+	 - [InstallingUnity]()
+		 - [InstallingUnity Overview](InstallingUnity.md)
+		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 	 - [UnityManual]()
-		 - [InstallingUnity]()
-			 - [InstallingUnity Overview](InstallingUnity.md)
-			 - [Deploying Unity Offline](DeployingUnityOffline.md)
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [Test node 6](Testnode6.md)
 		 - [UnityManual Overview](UnityManual.md)
