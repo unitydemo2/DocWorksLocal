@@ -3,6 +3,9 @@ Unity Manual TOC
 
  - [UnityManual]()
 	 - [UnityManual]()
+		 - [InstallingUnity]()
+			 - [InstallingUnity Overview](InstallingUnity.md)
+			 - [Deploying Unity Offline](DeployingUnityOffline.md)
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [Test node 6](Testnode6.md)
 		 - [UnityManual Overview](UnityManual.md)
@@ -11,7 +14,4 @@ Unity Manual TOC
 		 - [OfflineDocumentation](OfflineDocumentation.md)
 		 - [WhatsNew56](WhatsNew56.md)
 		 - [Leave Feedback](LeaveFeedback.md)
-	 - [InstallingUnity]()
-		 - [InstallingUnity Overview](InstallingUnity.md)
-		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 
