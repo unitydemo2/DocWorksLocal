@@ -8,6 +8,7 @@
 
 
 Added New Content.
+Added new Content as data.
 
 
 # Deploying Unity offline
